@@ -1,0 +1,9 @@
+# Simulation outputs & test files
+testbench.v
+*.vcd
+waveform.vcd
+sim
+sim_*
+
+# OS metadata
+.DS_Store
